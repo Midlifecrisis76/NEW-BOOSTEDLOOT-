@@ -118,7 +118,20 @@
 	<type name="MountainBag_Green">
 		<cargo preset="foodVillage" />
 		<cargo preset="mixVillage" />
-	</type>
+     </type>
+	 <type name="MountainBag_Red">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <usage name="Coast"/>
+        <usage name="Hunting"/>
+   </type>
 	<type name="SmershBag">
 		<cargo preset="foodArmy" />
 		<cargo preset="mixArmy" />
@@ -626,19 +639,19 @@
 		<cargo preset="mixVillage" />
 	</type>
 	<type name="TrackSuitJacket_Black">
-		<cargo preset="mixVillage" />
+		<cargo preset="foodArmy" />
 	</type>
 	<type name="TrackSuitJacket_Blue">
-		<cargo preset="mixVillage" />
+		<cargo preset="foodArmy" />
 	</type>
 	<type name="TrackSuitJacket_Green">
-		<cargo preset="mixVillage" />
+		<cargo preset="foodArmy" />
 	</type>
 	<type name="TrackSuitJacket_LightBlue">
-		<cargo preset="mixVillage" />
+		<cargo preset="foodArmy" />
 	</type>
 	<type name="TrackSuitJacket_Red">
-		<cargo preset="mixVillage" />
+		<cargo preset="foodArmy" />
 	</type>
 	<type name="FirefighterJacket_Beige">
 		<cargo preset="toolsPolice" />
@@ -2499,7 +2512,19 @@
 		</attachments>
 	</type>
 	
-	
+	<type name="LongHorn">
+		<attachments chance="1.00">
+			<item name="PistolOptic" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="P1">
+		<attachments chance="1.00">
+			<item name="PistolSuppressor" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_P1_8Rnd" chance="1.00" />
+		</attachments>
+	</type>
 	
 <!-- FUTURE
 	
