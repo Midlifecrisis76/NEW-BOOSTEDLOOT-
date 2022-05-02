@@ -2625,35 +2625,7 @@
 		<cargo preset="Xmas_Repairs_Small" />
 		<cargo preset="Xmas_Food_Small" />
 		<cargo preset="Xmas_Chemlights_Small" />
-													 
-													 
-													 
-		  
-					   
-										  
-										
-		  
-					   
-											   
-												
-											  
-												 
-												
-		  
-					   
-											   
-												
-		  
-					   
-												
-												
-											   
-											  
-											   
-											  
-											  
-		  
-	</type>
+        </type>
 	<type name="GiftBox_Small_2">
 		<cargo preset="Xmas_Clothes_Small" />
 		<cargo preset="Xmas_Lights_Small" />
@@ -2665,35 +2637,7 @@
 		<cargo preset="Xmas_Repairs_Small" />
 		<cargo preset="Xmas_Food_Small" />
 		<cargo preset="Xmas_Chemlights_Small" />
-													 
-													 
-													 
-		  
-					   
-										  
-										
-		  
-					   
-											   
-												
-											  
-												 
-												
-		  
-					   
-											   
-												
-		  
-					   
-												
-												
-											   
-											  
-											   
-											  
-											  
-		  
-	</type>
+        </type>
 	<type name="GiftBox_Small_3">
 		<cargo preset="Xmas_Clothes_Small" />
 		<cargo preset="Xmas_Lights_Small" />
@@ -2705,35 +2649,7 @@
 		<cargo preset="Xmas_Repairs_Small" />
 		<cargo preset="Xmas_Food_Small" />
 		<cargo preset="Xmas_Chemlights_Small" />
-													 
-													 
-													 
-		  
-					   
-										  
-										
-		  
-					   
-											   
-												
-											  
-												 
-												
-		  
-					   
-											   
-												
-		  
-					   
-												
-												
-											   
-											  
-											   
-											  
-											  
-		  
-	</type>
+        </type>
 	<type name="GiftBox_Small_4">
 		<cargo preset="Xmas_Clothes_Small" />
 		<cargo preset="Xmas_Lights_Small" />
@@ -2745,35 +2661,7 @@
 		<cargo preset="Xmas_Repairs_Small" />
 		<cargo preset="Xmas_Food_Small" />
 		<cargo preset="Xmas_Chemlights_Small" />
-													 
-													 
-													 
-		  
-					   
-										  
-										
-		  
-					   
-											   
-												
-											  
-												 
-												
-		  
-					   
-											   
-												
-		  
-					   
-												
-												
-											   
-											  
-											   
-											  
-											  
-		  
-	</type>
+        </type>
 	<type name="GiftBox_Medium_1">
 		<cargo preset="Xmas_Clothes_Medium" />
 		<cargo preset="Xmas_Weapons_Medium" />
@@ -2791,45 +2679,7 @@
 		<cargo preset="Xmas_Repairs_Small" />
 		<cargo preset="Xmas_Food_Small" />
 		<cargo preset="Xmas_Chemlights_Small" />
-													
-		  
-					   
-													 
-													   
-												  
-												   
-													
-													 
-													 
-													 
-		  
-					   
-										  
-										
-		  
-					   
-											   
-												
-											  
-												 
-												
-		  
-					   
-											   
-												
-		  
-					   
-											   
-											  
-												
-												
-											   
-											  
-											   
-											  
-											  
-		  
-	</type>
+        </type>
 	<type name="GiftBox_Medium_2">
 		<cargo preset="Xmas_Clothes_Medium" />
 		<cargo preset="Xmas_Weapons_Medium" />
@@ -2847,45 +2697,7 @@
 		<cargo preset="Xmas_Repairs_Small" />
 		<cargo preset="Xmas_Food_Small" />
 		<cargo preset="Xmas_Chemlights_Small" />
-													
-		  
-					   
-													 
-													   
-												  
-												   
-													
-													 
-													 
-													 
-		  
-					   
-										  
-										
-		  
-					   
-											   
-												
-											  
-												 
-												
-		  
-					   
-											   
-												
-		  
-					   
-											   
-											  
-												
-												
-											   
-											  
-											   
-											  
-											  
-		  
-	</type>
+        </type>
 	<type name="GiftBox_Medium_3">
 		<cargo preset="Xmas_Clothes_Medium" />
 		<cargo preset="Xmas_Weapons_Medium" />
@@ -2903,45 +2715,7 @@
 		<cargo preset="Xmas_Repairs_Small" />
 		<cargo preset="Xmas_Food_Small" />
 		<cargo preset="Xmas_Chemlights_Small" />
-													
-		  
-					   
-													 
-													   
-												  
-												   
-													
-													 
-													 
-													 
-		  
-					   
-										  
-										
-		  
-					   
-											   
-												
-											  
-												 
-												
-		  
-					   
-											   
-												
-		  
-					   
-											   
-											  
-												
-												
-											   
-											  
-											   
-											  
-											  
-		  
-	</type>
+        </type>
 	<type name="GiftBox_Medium_4">
 		<cargo preset="Xmas_Clothes_Medium" />
 		<cargo preset="Xmas_Weapons_Medium" />
@@ -2959,45 +2733,7 @@
 		<cargo preset="Xmas_Repairs_Small" />
 		<cargo preset="Xmas_Food_Small" />
 		<cargo preset="Xmas_Chemlights_Small" />
-													
-		  
-					   
-													 
-													   
-												  
-												   
-													
-													 
-													 
-													 
-		  
-					   
-										  
-										
-		  
-					   
-											   
-												
-											  
-												 
-												
-		  
-					   
-											   
-												
-		  
-					   
-											   
-											  
-												
-												
-											   
-											  
-											   
-											  
-											  
-		  
-	</type>
+        </type>
 	<type name="GiftBox_Large_1">
 		<cargo preset="Xmas_Mags_Large" />
 		<cargo preset="Xmas_Weapons_Large" />
@@ -3017,56 +2753,7 @@
 		<cargo preset="Xmas_Repairs_Small" />
 		<cargo preset="Xmas_Food_Small" />
 		<cargo preset="Xmas_Chemlights_Small" />
-										 
-										   
-													
-		  
-					   
-													 
-													   
-												  
-												   
-													
-													 
-													 
-													 
-		  
-					   
-										  
-										
-		  
-					   
-											   
-												
-											  
-												 
-												
-		  
-					   
-											   
-												
-		  
-					   
-											   
-											  
-												
-												
-											   
-											  
-											   
-											  
-											  
-											   
-											   
-											   
-											   
-		  
-					   
-													
-														
-												  
-		  
-	</type>
+        </type>
 	<type name="GiftBox_Large_2">
 		<cargo preset="Xmas_Mags_Large" />
 		<cargo preset="Xmas_Weapons_Large" />
@@ -3086,56 +2773,7 @@
 		<cargo preset="Xmas_Repairs_Small" />
 		<cargo preset="Xmas_Food_Small" />
 		<cargo preset="Xmas_Chemlights_Small" />
-										 
-										   
-													
-		  
-					   
-													 
-													   
-												  
-												   
-													
-													 
-													 
-													 
-		  
-					   
-										  
-										
-		  
-					   
-											   
-												
-											  
-												 
-												
-		  
-					   
-											   
-												
-		  
-					   
-											   
-											  
-												
-												
-											   
-											  
-											   
-											  
-											  
-											   
-											   
-											   
-											   
-		  
-					   
-													
-														
-												  
-		  
-	</type>
+        </type>
 	<type name="GiftBox_Large_3">
 		<cargo preset="Xmas_Mags_Large" />
 		<cargo preset="Xmas_Weapons_Large" />
@@ -3155,56 +2793,7 @@
 		<cargo preset="Xmas_Repairs_Small" />
 		<cargo preset="Xmas_Food_Small" />
 		<cargo preset="Xmas_Chemlights_Small" />
-										 
-										   
-													
-		  
-					   
-													 
-													   
-												  
-												   
-													
-													 
-													 
-													 
-		  
-					   
-										  
-										
-		  
-					   
-											   
-												
-											  
-												 
-												
-		  
-					   
-											   
-												
-		  
-					   
-											   
-											  
-												
-												
-											   
-											  
-											   
-											  
-											  
-											   
-											   
-											   
-											   
-		  
-					   
-													
-														
-												  
-		  
-	</type>
+        </type>
 	<type name="GiftBox_Large_4">
 		<cargo preset="Xmas_Mags_Large" />
 		<cargo preset="Xmas_Weapons_Large" />
@@ -3224,55 +2813,6 @@
 		<cargo preset="Xmas_Repairs_Small" />
 		<cargo preset="Xmas_Food_Small" />
 		<cargo preset="Xmas_Chemlights_Small" />
-										 
-										   
-													
-		  
-					   
-													 
-													   
-												  
-												   
-													
-													 
-													 
-													 
-		  
-					   
-										  
-										
-		  
-					   
-											   
-												
-											  
-												 
-												
-		  
-					   
-											   
-												
-		  
-					   
-											   
-											  
-												
-												
-											   
-											  
-											   
-											  
-											  
-											   
-											   
-											   
-											   
-		  
-					   
-													
-														
-												  
-		  
 	</type>
 	<!-- VEHICLES -->
 	<type name="OffroadHatchback">
