@@ -55,8 +55,8 @@
 				<item name="SewingKit" chance="0.07" />
 				<item name="CanOpener" chance="0.05" />
 				<item name="Rope" chance="0.07" />
-				<item name="Rag" chance="0.07" />
-				<item name="Flashlight" chance="0.07" />
+				<item name="TacticalBaconCan" chance="0.07" />
+				<item name="SpaghettiCan" chance="0.07" />
 		</cargo>
 		<cargo chance="0.2" name="toolsCity"> <!--same as the one above - just preparing -->
 				<item name="Farminghoe" chance="1.00" />
@@ -65,15 +65,15 @@
 				<item name="SewingKit" chance="0.07" />
 				<item name="CanOpener" chance="0.05" />
 				<item name="Rope" chance="0.07" />
-				<item name="Rag" chance="0.07" />
-				<item name="Flashlight" chance="0.07" />
+				<item name="TacticalBaconCan" chance="0.07" />
+				<item name="SpaghettiCan" chance="0.07" />
 		</cargo>
 		<cargo chance="0.35" name="toolsMedic">
-				<item name="SalineBag" chance="0.05" />
+				<item name="TetracyclineAntibiotics" chance="0.05" />
 				<item name="BandageDressing" chance="1.00" />
-				<item name="BloodBagEmpty" chance="0.1" />
-				<item name="BloodTestKit" chance="0.05" />
-				<item name="StartKitIV" chance="0.05" />
+				<item name="TetracyclineAntibiotics" chance="0.1" />
+				<item name="TetracyclineAntibiotics" chance="0.05" />
+				<item name="TetracyclineAntibiotics" chance="0.05" />
 				<item name="PurificationTablets" chance="0.1" />
 				<item name="CharcoalTablets" chance="0.1" />
 				<item name="PainkillerTablets" chance="1.00" />
@@ -85,14 +85,14 @@
 				<item name="Battery9V" chance="0.1" />
 				<item name="BoxCerealCrunchin" chance="1.00" />
 				<item name="Flashlight" chance="0.15" />
-				<item name="Roadflare" chance="0.2" />
+				<item name="TetracyclineAntibiotics" chance="0.2" />
 				<item name="CombatKnife" chance="0.05" />
 				<item name="Morphine" chance="0.05" />
 				<item name="BandageDressing" chance="0.05" />
 		</cargo>
 		<cargo chance="0.15" name="toolsHunter">
 				<item name="Paper" chance="0.50" />
-				<item name="Flashlight" chance="0.50" />
+				<item name="TetracyclineAntibiotics" chance="0.50" />
 				<item name="Battery9V" chance="0.50" />
 				<item name="Matchbox" chance="0.15" />
 				<item name="BoxCerealCrunchin" chance="1.00" />
@@ -107,11 +107,11 @@
 		<cargo chance="0.35" name="toolsIndustrial">
 				<item name="Pipe" chance="0.07" />
 				<item name="Hatchet" chance="0.07" />
-				<item name="Crowbar" chance="0.07" />
+				<item name="TetracyclineAntibiotics" chance="0.07" />
 				<item name="Rope" chance="0.1" />
 				<item name="BoxCerealCrunchin" chance="1.00" />
 				<item name="Battery9V" chance="0.50" />
-				<item name="Flashlight" chance="0.2" />
+				<item name="TacticalBaconCan" chance="0.2" />
 		</cargo>
 		<cargo chance="0.15" name="ammoCivil">
 				<item name="Ammo_380" chance="0.22" />
@@ -141,9 +141,9 @@
 				<item name="DuctTape" chance="0.07" />
 				<item name="Battery9V" chance="0.50" />
 				<item name="Paper" chance="0.1" />
-				<item name="Flashlight" chance="0.1" />
+				<item name="TacticalBaconCan" chance="0.1" />
 				<item name="Matchbox" chance="0.07" />
-				<item name="Roadflare" chance="0.2" />
+				<item name="TetracyclineAntibiotics" chance="0.2" />
 				<item name="KitchenKnife" chance="0.05" />
 				<item name="CanOpener" chance="0.05" />
 				<item name="BandageDressing" chance="0.05" />
@@ -166,9 +166,9 @@
 		</cargo>
 		<cargo chance="0.1" name="mixHunter">
 				<item name="Paper" chance="0.1" />
-				<item name="Flashlight" chance="0.1" />
+				<item name="TacticalBaconCan" chance="0.1" />
 				<item name="Matchbox" chance="0.25" />
-				<item name="Roadflare" chance="0.2" />
+				<item name="TetracyclineAntibiotics" chance="0.2" />
 				<item name="HuntingKnife" chance="0.05" />
 				<item name="CanOpener" chance="0.05" />
 				<item name="BandageDressing" chance="0.05" />
@@ -294,7 +294,7 @@
 		</attachments>
 		<attachments chance="0.10" name="handsCity">
 				<item name="NailedBaseballBat" chance="1.0" />
-				<item name="BaseballBat" chance="1.0" />
+				<item name="TacticalBaconCan" chance="1.0" />
 				<item name="Machete" chance="1.0" />
 		</attachments>
 		<attachments chance="0.00" name="glassesCity"> <!--was chance="0.20"; removed coz of attachment slot is missing -->
@@ -331,7 +331,7 @@
 		</attachments>
 		<attachments chance="0.15" name="handsIndustrial">
 				<item name="Pipe" chance="0.25" />
-				<item name="Crowbar" chance="0.15" />
+				<item name="TacticalBaconCan" chance="0.15" />
 				<item name="Sledgehammer" chance="0.50" />
 		</attachments>
 		<attachments chance="0.10" name="vestsIndustrial">
@@ -369,7 +369,7 @@
 			<item name="MilitaryBeret_UN" chance="0.10" />
 			<item name="MilitaryBeret_NZ" chance="0.10" />
 			<item name="MilitaryBeret_ChDKZ" chance="0.05" />
-			<item name="MilitaryBeret_CDF" chance="0.05" />
+			<item name="TacticalBaconCan" chance="0.05" />
 			<item name="ZSh3PilotHelmet" chance="0.05" />
 			<item name="NVGHeadstrap" chance="1.00" />
 		</attachments>
@@ -467,12 +467,12 @@
 		</cargo>
 		<cargo chance="0.20" name="toolsCommon_T1">
 				<item name="Matchbox" chance="1.00" />
-				<item name="SteakKnife" chance="0.2" />
+				<item name="TacticalBaconCan" chance="0.2" />
 				<item name="HandSaw" chance="1.00" />
 		</cargo>
 		<cargo chance="0.15" name="toolsIndustrial_T1">
 				<item name="Rag" chance="0.1" />
-				<item name="Crowbar" chance="0.1" />
+				<item name="TacticalBaconCan" chance="0.1" />
 				<item name="Hammer" chance="1.00" />
 				<item name="Screwdriver" chance="0.15" />
 				<item name="Hatchet" chance="0.05" />
@@ -572,10 +572,10 @@
 		<cargo chance="1.0" name="Xmas_Fillers_Small">
 			<item name="GasMask_filter" chance="0.10" />
 			<item name="Battery9V" chance="0.10" />
-			<item name="Hook" chance="0.10" />
+			<item name="TacticalBaconCan" chance="0.10" />
 		</cargo>
 		<cargo chance="1.0" name="Xmas_Repairs_Small">
-			<item name="DuctTape" chance="0.05" />
+			<item name="TacticalBaconCan" chance="0.05" />
 			<item name="SewingKit" chance="0.05" />
 			<item name="EpoxyPutty" chance="0.05" />
 			<item name="Whetstone" chance="0.05" />
