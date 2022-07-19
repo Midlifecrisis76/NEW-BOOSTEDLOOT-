@@ -16688,21 +16688,28 @@
         <category name="tools"/>
     </type>
     <type name="TerritoryFlagKit">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="tools"/>
+        <usage name="Hunting"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
     <type name="TetracyclineAntibiotics">
-        <nominal>20</nominal>
+        <nominal>100</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>12</min>
+        <min>95</min>
         <quantmin>10</quantmin>
         <quantmax>50</quantmax>
         <cost>100</cost>
@@ -16710,6 +16717,13 @@
         <category name="tools"/>
         <tag name="shelves"/>
         <usage name="Medic"/>
+        <usage name="Hunting"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
     <type name="Thermometer">
         <nominal>40</nominal>
@@ -16726,7 +16740,7 @@
         <usage name="Village"/>
     </type>
     <type name="ThickFramesGlasses">
-        <nominal>30</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>20</min>
@@ -16739,7 +16753,7 @@
         <usage name="Village"/>
     </type>
     <type name="ThinFramesGlasses">
-        <nominal>30</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>20</min>
@@ -16994,10 +17008,10 @@
         <category name="tools"/>
     </type>
     <type name="TruckBattery">
-        <nominal>20</nominal>
+        <nominal>55</nominal>
         <lifetime>28800</lifetime>
         <restock>360</restock>
-        <min>10</min>
+        <min>50</min>
         <quantmin>20</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -17316,10 +17330,10 @@
         <category name="vehiclesparts"/>
     </type>
     <type name="TunaCan">
-        <nominal>20</nominal>
+        <nominal>55</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>15</min>
+        <min>50</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
